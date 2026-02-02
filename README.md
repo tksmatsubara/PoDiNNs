@@ -1,4 +1,12 @@
-# Poisson-Dirac Neural Networks for Modeling Coupled Systems across Physics Domains
+# Poisson-Dirac Neural Networks for Modeling Coupled Systems across Physics Domains (ICLR 2025)
+
+Official paper page: [OpenReview](https://openreview.net/forum?id=U1DjXQeJRx), [arXiv](https://arxiv.org/abs/2410.11480)
+
+## Highlights
+
+<p align="center">
+  <img src="./assets/fig1.png" alt="PoDiNNS overview" width="720px" />
+</p>
 
 ## Abstract
 
@@ -108,10 +116,11 @@ The results of our experiments, including performance metrics and visualizations
 ## Citation
 
 ```bibtex
-@article{author2024podinn,
-  title={Poisson-Dirac Neural Networks for Modeling Coupled Systems across Physics Domains},
-  author={Anonymous Authors},
-  journal={Submission to ICLR2025},
-  year={2024},
+@InProceedings{Khosrovian2025ICLR,
+  title     = {Poisson-Dirac Neural Networks for Modeling Coupled Systems across Physics Domains},
+  author    = {Razmik Arman Khosrovian and Takaharu Yaguchi and Hiroaki Yoshimura and Takashi Matsubara},
+  booktitle = {Proceedings of the International Conference on Learning Representations (ICLR)},
+  month     = {Apr.},
+  year      = {2025},
 }
 ```
